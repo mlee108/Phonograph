@@ -3,11 +3,9 @@
 
 **A material designed local music player for Android.**
 
-![Screenshots](./art/art.jpg?raw=true)
-
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone)
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/com.kabouzeid.gramophone/)
+## Fork Goals
+- [ ] Pro version of Phonograph
+- [ ] Android Auto
+- [ ] Remove files related to payment
+- [ ] Fix album art removal
+- [ ] Fix album art easy download
